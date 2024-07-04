@@ -1,4 +1,4 @@
-﻿using BankoKeo.Screens;
+﻿using Bankokeo.Screens;
 using Microsoft.Data.SqlClient;
 
 namespace BankoKeo

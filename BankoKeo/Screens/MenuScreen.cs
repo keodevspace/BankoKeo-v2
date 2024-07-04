@@ -6,7 +6,7 @@ namespace Bankokeo.Screens
     {
         public static void Load()
         {
-            Console.Clear
+            Console.Clear();
             Console.WriteLine("--------------Menu---------------");
             Console.WriteLine("|----                           |");
             Console.WriteLine("| 1 |  Saldo                    |");
