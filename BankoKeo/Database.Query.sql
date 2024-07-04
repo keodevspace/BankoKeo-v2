@@ -37,3 +37,14 @@ SELECT @UserId = [Id] FROM [User] WHERE [Login] = 'keo'
 INSERT INTO [Account] ([UserId], [Balance])
 VALUES (@UserId, 1000)
 GO
+
+CREATE VIEW [UserAccountView] AS
+SELECT 
+    *
+FROM 
+    [User]
+RIGHT JOIN 
+    [Account] 
+ON 
+    [User].[Id] = [Account].[UserId];
+GO
