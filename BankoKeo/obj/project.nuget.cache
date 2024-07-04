@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xh5H4DBIFKE=",
+  "dgSpecHash": "1SInoi2HtgE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\BanKoKeo\\BankoKeo\\BankoKeo-v2.csproj",
+  "projectFilePath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\BanKoKeo\\Bankokeo\\Bankokeo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keo.almeida\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\keo.almeida\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

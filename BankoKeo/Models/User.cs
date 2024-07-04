@@ -7,7 +7,7 @@ namespace Bankokeo.Models
     public class User
     {
         public User()
-            => Roles = new List<Role>();
+            => Accountss = new List<Account>();
 
         public int Id { get; set; }
         public string Name { get; set; }

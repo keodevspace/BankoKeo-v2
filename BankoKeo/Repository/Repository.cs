@@ -6,7 +6,7 @@ namespace Bankokeo.Repositories
 {
     public class Repository<T> where T : class
     {
-        private readonly SqlConnection _connection;
+        internal readonly SqlConnection _connection;
 
         public Repository(SqlConnection connection)
             => _connection = connection;

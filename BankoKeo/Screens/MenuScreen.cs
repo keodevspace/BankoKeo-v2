@@ -1,5 +1,4 @@
-using System;
-
+using static Database;
 namespace Bankokeo.Screens
 {
     public static class MenuScreen

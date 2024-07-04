@@ -7,15 +7,14 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BankoKeo-v2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Bankokeo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6578daaa5b43273272b811cf4fd2f5edb9c1dfe")]
-[assembly: System.Reflection.AssemblyProductAttribute("BankoKeo-v2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BankoKeo-v2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Bankokeo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Bankokeo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

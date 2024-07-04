@@ -1,7 +1,6 @@
-using System;
 using Bankokeo.Models;
 using Bankokeo.Repositories;
-
+using static Database;
 namespace Bankokeo.Screens
 {
     public static class WithdrawScreen

@@ -1,6 +1,6 @@
 using Microsoft.Data.SqlClient;
 
-namespace BankoKeo
+namespace Bankokeo
 {
     public static class Database
     {

@@ -1,4 +1,4 @@
-# BankoKeo-v2
+# Bankokeo
 - Dapper
 - Dapper.Contrib
 - Microsoft.Data.SqlServer

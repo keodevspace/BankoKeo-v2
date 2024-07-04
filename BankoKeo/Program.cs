@@ -1,7 +1,7 @@
 ﻿using Bankokeo.Screens;
 using Microsoft.Data.SqlClient;
 
-namespace BankoKeo
+namespace Bankokeo
 {
     class Program
     {
@@ -30,7 +30,7 @@ namespace BankoKeo
             Console.WriteLine("");
             Console.WriteLine("---------------------------------");
             Console.WriteLine("---------------------------------");
-            Console.WriteLine("$$$  BOAS-VINDAS AO BANKOKEO  $$$");
+            Console.WriteLine("$$$  BOAS-VINDAS AO Bankokeo  $$$");
             Console.WriteLine("---------------------------------");
             Console.WriteLine("---------------------------------");
             Console.WriteLine("");

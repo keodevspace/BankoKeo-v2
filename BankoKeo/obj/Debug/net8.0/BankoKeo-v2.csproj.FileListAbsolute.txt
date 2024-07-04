@@ -1,6 +1,6 @@
-C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\BanKoKeo\BankoKeo\obj\Debug\net8.0\BankoKeo-v2.csproj.AssemblyReference.cache
-C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\BanKoKeo\BankoKeo\obj\Debug\net8.0\BankoKeo-v2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\BanKoKeo\BankoKeo\obj\Debug\net8.0\BankoKeo-v2.AssemblyInfoInputs.cache
-C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\BanKoKeo\BankoKeo\obj\Debug\net8.0\BankoKeo-v2.AssemblyInfo.cs
-C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\BanKoKeo\BankoKeo\obj\Debug\net8.0\BankoKeo-v2.csproj.CoreCompileInputs.cache
-C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\BanKoKeo\BankoKeo\obj\Debug\net8.0\BankoKeo-v2.sourcelink.json
+C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\Bankokeo\Bankokeo\obj\Debug\net8.0\Bankokeo.csproj.AssemblyReference.cache
+C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\Bankokeo\Bankokeo\obj\Debug\net8.0\Bankokeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\Bankokeo\Bankokeo\obj\Debug\net8.0\Bankokeo.AssemblyInfoInputs.cache
+C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\Bankokeo\Bankokeo\obj\Debug\net8.0\Bankokeo.AssemblyInfo.cs
+C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\Bankokeo\Bankokeo\obj\Debug\net8.0\Bankokeo.csproj.CoreCompileInputs.cache
+C:\Users\keo.almeida\OneDrive\Documentos\ESTUDOS\Bankokeo\Bankokeo\obj\Debug\net8.0\Bankokeo.sourcelink.json
